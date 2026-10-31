@@ -122,7 +122,7 @@ export default function App() {
     } catch (e) {
       console.warn('Could not read search history', e);
     }
-    return INITIAL_HISTORY_SEEDS;
+    return [];
   });
 
   // Notification message
