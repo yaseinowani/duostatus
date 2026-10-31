@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  body {
+    transition: background-color 0.25s ease, color 0.25s ease;
+  }
+}
+
+@keyframes slot-spring-down {
+  0% {
+    transform: translateY(32px) scale(0.84);
+    opacity: 0.1;
+  }
+  42% {
+    transform: translateY(-8px) scale(1.09);
+    opacity: 1;
+  }
+  68% {
+    transform: translateY(3.5px) scale(0.97);
+  }
+  84% {
+    transform: translateY(-1.5px) scale(1.015);
+  }
+  100% {
+    transform: translateY(0) scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes slot-spring-up {
+  0% {
+    transform: translateY(-32px) scale(0.84);
+    opacity: 0.1;
+  }
+  42% {
+    transform: translateY(8px) scale(1.09);
+    opacity: 1;
+  }
+  68% {
+    transform: translateY(-3.5px) scale(0.97);
+  }
+  84% {
+    transform: translateY(1.5px) scale(1.015);
+  }
+  100% {
+    transform: translateY(0) scale(1);
+    opacity: 1;
+  }
+}
+
+.animate-slot-spring-down {
+  animation: slot-spring-down 0.6s cubic-bezier(0.18, 0.89, 0.32, 1.28) both;
+  will-change: transform, opacity;
+}
+
+.animate-slot-spring-up {
+  animation: slot-spring-up 0.6s cubic-bezier(0.18, 0.89, 0.32, 1.28) both;
+  will-change: transform, opacity;
+}

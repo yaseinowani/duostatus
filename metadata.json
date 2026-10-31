@@ -1,0 +1,6 @@
+{
+  "name": "DuoStats - Duolingo非公式統計",
+  "description": "Duolingoユーザーの学習統計、連続記録、コース別XP、XP推移、週間ランキングを確認できる非公式オープン統計Webサイト",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,1058 @@
+[
+  {
+    "user": {
+      "id": 1001,
+      "username": "tanaka_learning",
+      "name": "田中 健太",
+      "bio": "毎日コツコツ英語とスペイン語を学習中！めざせ連続500日。",
+      "picture": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "streak": 416,
+      "totalXp": 96829,
+      "creationDate": 1754224095,
+      "courses": [
+        {
+          "id": "en",
+          "title": "English",
+          "learningLanguage": "en",
+          "fromLanguage": "ja",
+          "xp": 82570,
+          "crowns": 142
+        },
+        {
+          "id": "es",
+          "title": "Spanish",
+          "learningLanguage": "es",
+          "fromLanguage": "en",
+          "xp": 14300,
+          "crowns": 38
+        }
+      ],
+      "learningLanguage": "en"
+    },
+    "firstTrackedAt": "2026-10-13T12:28:15.013Z",
+    "lastUpdatedAt": "2026-10-27T12:46:52.137Z",
+    "isReal": false,
+    "isDemo": true,
+    "snapshots": [
+      {
+        "timestamp": 1791894495013,
+        "dateStr": "2026-10-13",
+        "totalXp": 95169,
+        "streak": 401
+      },
+      {
+        "timestamp": 1791980895013,
+        "dateStr": "2026-10-14",
+        "totalXp": 95239,
+        "streak": 402
+      },
+      {
+        "timestamp": 1792067295013,
+        "dateStr": "2026-10-15",
+        "totalXp": 95312,
+        "streak": 403
+      },
+      {
+        "timestamp": 1792153695013,
+        "dateStr": "2026-10-16",
+        "totalXp": 95370,
+        "streak": 404
+      },
+      {
+        "timestamp": 1792240095013,
+        "dateStr": "2026-10-17",
+        "totalXp": 95506,
+        "streak": 405
+      },
+      {
+        "timestamp": 1792326495013,
+        "dateStr": "2026-10-18",
+        "totalXp": 95656,
+        "streak": 406
+      },
+      {
+        "timestamp": 1792412895013,
+        "dateStr": "2026-10-19",
+        "totalXp": 95779,
+        "streak": 407
+      },
+      {
+        "timestamp": 1792499295013,
+        "dateStr": "2026-10-20",
+        "totalXp": 95837,
+        "streak": 408
+      },
+      {
+        "timestamp": 1792585695013,
+        "dateStr": "2026-10-21",
+        "totalXp": 95942,
+        "streak": 409
+      },
+      {
+        "timestamp": 1792672095013,
+        "dateStr": "2026-10-22",
+        "totalXp": 96023,
+        "streak": 410
+      },
+      {
+        "timestamp": 1792758495013,
+        "dateStr": "2026-10-23",
+        "totalXp": 96151,
+        "streak": 411
+      },
+      {
+        "timestamp": 1792844895013,
+        "dateStr": "2026-10-24",
+        "totalXp": 96293,
+        "streak": 412
+      },
+      {
+        "timestamp": 1792931295013,
+        "dateStr": "2026-10-25",
+        "totalXp": 96542,
+        "streak": 413
+      },
+      {
+        "timestamp": 1793017695013,
+        "dateStr": "2026-10-26",
+        "totalXp": 96653,
+        "streak": 414
+      },
+      {
+        "timestamp": 1793105212137,
+        "dateStr": "2026-10-27",
+        "totalXp": 96829,
+        "streak": 416,
+        "courses": [
+          {
+            "title": "English",
+            "xp": 82570,
+            "crowns": 142,
+            "learningLanguage": "en"
+          },
+          {
+            "title": "Spanish",
+            "xp": 14300,
+            "crowns": 38,
+            "learningLanguage": "es"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": {
+      "id": 1002,
+      "username": "sakura_polyglot",
+      "name": "Sakura M.",
+      "bio": "ヨーロッパ諸言語と韓国語をマルチ学習。語学仲間募集中！",
+      "picture": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&auto=format&fit=crop&q=80",
+      "streak": 730,
+      "totalXp": 136506,
+      "creationDate": 1723984095,
+      "courses": [
+        {
+          "id": "fr",
+          "title": "French",
+          "learningLanguage": "fr",
+          "fromLanguage": "en",
+          "xp": 68000,
+          "crowns": 120
+        },
+        {
+          "id": "de",
+          "title": "German",
+          "learningLanguage": "de",
+          "fromLanguage": "en",
+          "xp": 32000,
+          "crowns": 64
+        },
+        {
+          "id": "ko",
+          "title": "Korean",
+          "learningLanguage": "ko",
+          "fromLanguage": "ja",
+          "xp": 24500,
+          "crowns": 45
+        },
+        {
+          "id": "zh",
+          "title": "Chinese",
+          "learningLanguage": "zh",
+          "fromLanguage": "en",
+          "xp": 12000,
+          "crowns": 22
+        }
+      ],
+      "learningLanguage": "fr"
+    },
+    "firstTrackedAt": "2026-10-06T12:28:15.013Z",
+    "lastUpdatedAt": "2026-10-27T12:28:15.013Z",
+    "isReal": false,
+    "isDemo": true,
+    "snapshots": [
+      {
+        "timestamp": 1791289695013,
+        "dateStr": "2026-10-06",
+        "totalXp": 134058,
+        "streak": 709
+      },
+      {
+        "timestamp": 1791376095013,
+        "dateStr": "2026-10-07",
+        "totalXp": 134112,
+        "streak": 710
+      },
+      {
+        "timestamp": 1791462495013,
+        "dateStr": "2026-10-08",
+        "totalXp": 134225,
+        "streak": 711
+      },
+      {
+        "timestamp": 1791548895013,
+        "dateStr": "2026-10-09",
+        "totalXp": 134288,
+        "streak": 712
+      },
+      {
+        "timestamp": 1791635295013,
+        "dateStr": "2026-10-10",
+        "totalXp": 134490,
+        "streak": 713
+      },
+      {
+        "timestamp": 1791721695013,
+        "dateStr": "2026-10-11",
+        "totalXp": 134632,
+        "streak": 714
+      },
+      {
+        "timestamp": 1791808095013,
+        "dateStr": "2026-10-12",
+        "totalXp": 134683,
+        "streak": 715
+      },
+      {
+        "timestamp": 1791894495013,
+        "dateStr": "2026-10-13",
+        "totalXp": 134784,
+        "streak": 716
+      },
+      {
+        "timestamp": 1791980895013,
+        "dateStr": "2026-10-14",
+        "totalXp": 134888,
+        "streak": 717
+      },
+      {
+        "timestamp": 1792067295013,
+        "dateStr": "2026-10-15",
+        "totalXp": 134966,
+        "streak": 718
+      },
+      {
+        "timestamp": 1792153695013,
+        "dateStr": "2026-10-16",
+        "totalXp": 135090,
+        "streak": 719
+      },
+      {
+        "timestamp": 1792240095013,
+        "dateStr": "2026-10-17",
+        "totalXp": 135328,
+        "streak": 720
+      },
+      {
+        "timestamp": 1792326495013,
+        "dateStr": "2026-10-18",
+        "totalXp": 135525,
+        "streak": 721
+      },
+      {
+        "timestamp": 1792412895013,
+        "dateStr": "2026-10-19",
+        "totalXp": 135596,
+        "streak": 722
+      },
+      {
+        "timestamp": 1792499295013,
+        "dateStr": "2026-10-20",
+        "totalXp": 135702,
+        "streak": 723
+      },
+      {
+        "timestamp": 1792585695013,
+        "dateStr": "2026-10-21",
+        "totalXp": 135764,
+        "streak": 724
+      },
+      {
+        "timestamp": 1792672095013,
+        "dateStr": "2026-10-22",
+        "totalXp": 135870,
+        "streak": 725
+      },
+      {
+        "timestamp": 1792758495013,
+        "dateStr": "2026-10-23",
+        "totalXp": 135986,
+        "streak": 726
+      },
+      {
+        "timestamp": 1792844895013,
+        "dateStr": "2026-10-24",
+        "totalXp": 136148,
+        "streak": 727
+      },
+      {
+        "timestamp": 1792931295013,
+        "dateStr": "2026-10-25",
+        "totalXp": 136359,
+        "streak": 728
+      },
+      {
+        "timestamp": 1793017695013,
+        "dateStr": "2026-10-26",
+        "totalXp": 136424,
+        "streak": 729
+      },
+      {
+        "timestamp": 1793104095013,
+        "dateStr": "2026-10-27",
+        "totalXp": 136506,
+        "streak": 730
+      }
+    ]
+  },
+  {
+    "user": {
+      "id": 1003,
+      "username": "kenji_streak",
+      "name": "KENJI",
+      "bio": "ストリーク途切れたら人生やり直し。1200日突破！",
+      "picture": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "streak": 1280,
+      "totalXp": 245610,
+      "creationDate": 1676464095,
+      "courses": [
+        {
+          "id": "en",
+          "title": "English",
+          "learningLanguage": "en",
+          "fromLanguage": "ja",
+          "xp": 215800,
+          "crowns": 260
+        },
+        {
+          "id": "it",
+          "title": "Italian",
+          "learningLanguage": "it",
+          "fromLanguage": "en",
+          "xp": 30000,
+          "crowns": 52
+        }
+      ],
+      "learningLanguage": "en"
+    },
+    "firstTrackedAt": "2026-09-29T12:28:15.013Z",
+    "lastUpdatedAt": "2026-10-27T12:28:15.013Z",
+    "isReal": false,
+    "isDemo": true,
+    "snapshots": [
+      {
+        "timestamp": 1790684895013,
+        "dateStr": "2026-09-29",
+        "totalXp": 242511,
+        "streak": 1252
+      },
+      {
+        "timestamp": 1790771295013,
+        "dateStr": "2026-09-30",
+        "totalXp": 242608,
+        "streak": 1253
+      },
+      {
+        "timestamp": 1790857695013,
+        "dateStr": "2026-10-01",
+        "totalXp": 242692,
+        "streak": 1254
+      },
+      {
+        "timestamp": 1790944095013,
+        "dateStr": "2026-10-02",
+        "totalXp": 242749,
+        "streak": 1255
+      },
+      {
+        "timestamp": 1791030495013,
+        "dateStr": "2026-10-03",
+        "totalXp": 242937,
+        "streak": 1256
+      },
+      {
+        "timestamp": 1791116895013,
+        "dateStr": "2026-10-04",
+        "totalXp": 243192,
+        "streak": 1257
+      },
+      {
+        "timestamp": 1791203295013,
+        "dateStr": "2026-10-05",
+        "totalXp": 243301,
+        "streak": 1258
+      },
+      {
+        "timestamp": 1791289695013,
+        "dateStr": "2026-10-06",
+        "totalXp": 243375,
+        "streak": 1259
+      },
+      {
+        "timestamp": 1791376095013,
+        "dateStr": "2026-10-07",
+        "totalXp": 243465,
+        "streak": 1260
+      },
+      {
+        "timestamp": 1791462495013,
+        "dateStr": "2026-10-08",
+        "totalXp": 243562,
+        "streak": 1261
+      },
+      {
+        "timestamp": 1791548895013,
+        "dateStr": "2026-10-09",
+        "totalXp": 243650,
+        "streak": 1262
+      },
+      {
+        "timestamp": 1791635295013,
+        "dateStr": "2026-10-10",
+        "totalXp": 243845,
+        "streak": 1263
+      },
+      {
+        "timestamp": 1791721695013,
+        "dateStr": "2026-10-11",
+        "totalXp": 244044,
+        "streak": 1264
+      },
+      {
+        "timestamp": 1791808095013,
+        "dateStr": "2026-10-12",
+        "totalXp": 244102,
+        "streak": 1265
+      },
+      {
+        "timestamp": 1791894495013,
+        "dateStr": "2026-10-13",
+        "totalXp": 244192,
+        "streak": 1266
+      },
+      {
+        "timestamp": 1791980895013,
+        "dateStr": "2026-10-14",
+        "totalXp": 244275,
+        "streak": 1267
+      },
+      {
+        "timestamp": 1792067295013,
+        "dateStr": "2026-10-15",
+        "totalXp": 244334,
+        "streak": 1268
+      },
+      {
+        "timestamp": 1792153695013,
+        "dateStr": "2026-10-16",
+        "totalXp": 244413,
+        "streak": 1269
+      },
+      {
+        "timestamp": 1792240095013,
+        "dateStr": "2026-10-17",
+        "totalXp": 244586,
+        "streak": 1270
+      },
+      {
+        "timestamp": 1792326495013,
+        "dateStr": "2026-10-18",
+        "totalXp": 244715,
+        "streak": 1271
+      },
+      {
+        "timestamp": 1792412895013,
+        "dateStr": "2026-10-19",
+        "totalXp": 244770,
+        "streak": 1272
+      },
+      {
+        "timestamp": 1792499295013,
+        "dateStr": "2026-10-20",
+        "totalXp": 244892,
+        "streak": 1273
+      },
+      {
+        "timestamp": 1792585695013,
+        "dateStr": "2026-10-21",
+        "totalXp": 244987,
+        "streak": 1274
+      },
+      {
+        "timestamp": 1792672095013,
+        "dateStr": "2026-10-22",
+        "totalXp": 245103,
+        "streak": 1275
+      },
+      {
+        "timestamp": 1792758495013,
+        "dateStr": "2026-10-23",
+        "totalXp": 245153,
+        "streak": 1276
+      },
+      {
+        "timestamp": 1792844895013,
+        "dateStr": "2026-10-24",
+        "totalXp": 245341,
+        "streak": 1277
+      },
+      {
+        "timestamp": 1792931295013,
+        "dateStr": "2026-10-25",
+        "totalXp": 245467,
+        "streak": 1278
+      },
+      {
+        "timestamp": 1793017695013,
+        "dateStr": "2026-10-26",
+        "totalXp": 245528,
+        "streak": 1279
+      },
+      {
+        "timestamp": 1793104095013,
+        "dateStr": "2026-10-27",
+        "totalXp": 245610,
+        "streak": 1280
+      }
+    ]
+  },
+  {
+    "user": {
+      "id": 1004,
+      "username": "yuki_beginner",
+      "name": "ユウキ",
+      "bio": "Duolingo始めたばかりです！通勤時間に毎日2レッスン。",
+      "picture": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150&auto=format&fit=crop&q=80",
+      "streak": 14,
+      "totalXp": 9066,
+      "creationDate": 1791376095,
+      "courses": [
+        {
+          "id": "en",
+          "title": "English",
+          "learningLanguage": "en",
+          "fromLanguage": "ja",
+          "xp": 8900,
+          "crowns": 16
+        }
+      ],
+      "learningLanguage": "en"
+    },
+    "firstTrackedAt": "2026-10-20T12:28:15.013Z",
+    "lastUpdatedAt": "2026-10-27T12:28:15.013Z",
+    "isReal": false,
+    "isDemo": true,
+    "snapshots": [
+      {
+        "timestamp": 1792499295013,
+        "dateStr": "2026-10-20",
+        "totalXp": 8181,
+        "streak": 7
+      },
+      {
+        "timestamp": 1792585695013,
+        "dateStr": "2026-10-21",
+        "totalXp": 8310,
+        "streak": 8
+      },
+      {
+        "timestamp": 1792672095013,
+        "dateStr": "2026-10-22",
+        "totalXp": 8386,
+        "streak": 9
+      },
+      {
+        "timestamp": 1792758495013,
+        "dateStr": "2026-10-23",
+        "totalXp": 8506,
+        "streak": 10
+      },
+      {
+        "timestamp": 1792844895013,
+        "dateStr": "2026-10-24",
+        "totalXp": 8731,
+        "streak": 11
+      },
+      {
+        "timestamp": 1792931295013,
+        "dateStr": "2026-10-25",
+        "totalXp": 8908,
+        "streak": 12
+      },
+      {
+        "timestamp": 1793017695013,
+        "dateStr": "2026-10-26",
+        "totalXp": 8984,
+        "streak": 13
+      },
+      {
+        "timestamp": 1793104095013,
+        "dateStr": "2026-10-27",
+        "totalXp": 9066,
+        "streak": 14
+      }
+    ]
+  },
+  {
+    "user": {
+      "id": 14,
+      "username": "Luis",
+      "name": "Luis",
+      "bio": "",
+      "picture": "https://d3gq3s1iyyx31w.cloudfront.net/static/render/bg/BackgroundColor-15/Body-1/ClothingColor-9/CostumeArtboard-72/Expression-47/EyeColor-1/FacialHair-0/FacialHairColor-1/Glasses-1/GlassesColor-8/HasCostume-1/Headwear-0/HeadwearColor-1/MainHair-66/MainHairColor-2/Nose%20Piercing-0/Piercings-0/SkinTone-2/Wrinkles-0/xlarge",
+      "streak": 3990,
+      "streakStartDate": "2019-07-25",
+      "streakEndDate": "2026-10-31",
+      "totalXp": 396770,
+      "creationDate": 1322621037,
+      "courses": [
+        {
+          "id": "DUOLINGO_FR_EN",
+          "title": "French",
+          "learningLanguage": "fr",
+          "fromLanguage": "en",
+          "xp": 88055,
+          "crowns": 9999
+        },
+        {
+          "id": "DUOLINGO_JA_EN",
+          "title": "Japanese",
+          "learningLanguage": "ja",
+          "fromLanguage": "en",
+          "xp": 8323,
+          "crowns": 9999
+        },
+        {
+          "id": "DUOLINGO_ES_EN",
+          "title": "Spanish",
+          "learningLanguage": "es",
+          "fromLanguage": "en",
+          "xp": 13022,
+          "crowns": 9999
+        },
+        {
+          "id": "DUOLINGO_DE_EN",
+          "title": "German",
+          "learningLanguage": "de",
+          "fromLanguage": "en",
+          "xp": 2348,
+          "crowns": 9999
+        },
+        {
+          "id": "DUOLINGO_SV_EN",
+          "title": "Swedish",
+          "learningLanguage": "sv",
+          "fromLanguage": "en",
+          "xp": 1012,
+          "crowns": 9999
+        },
+        {
+          "id": "DUOLINGO_PT_EN",
+          "title": "Portuguese",
+          "learningLanguage": "pt",
+          "fromLanguage": "en",
+          "xp": 53997,
+          "crowns": 9999
+        },
+        {
+          "id": "DUOLINGO_EN_EN",
+          "title": "English",
+          "learningLanguage": "en",
+          "fromLanguage": "en",
+          "xp": 433,
+          "crowns": 9999
+        },
+        {
+          "id": "DUOLINGO_EN_RU",
+          "title": "English",
+          "learningLanguage": "en",
+          "fromLanguage": "ru",
+          "xp": 56,
+          "crowns": 9999
+        },
+        {
+          "id": "DUOLINGO_FR_ES",
+          "title": "French",
+          "learningLanguage": "fr",
+          "fromLanguage": "es",
+          "xp": 25,
+          "crowns": 9999
+        },
+        {
+          "id": "DUOLINGO_EN_ES",
+          "title": "English",
+          "learningLanguage": "en",
+          "fromLanguage": "es",
+          "xp": 382,
+          "crowns": 9999
+        },
+        {
+          "id": "DUOLINGO_IT_EN",
+          "title": "Italian",
+          "learningLanguage": "it",
+          "fromLanguage": "en",
+          "xp": 81,
+          "crowns": 9999
+        },
+        {
+          "id": "DUOLINGO_AR_EN",
+          "title": "Arabic",
+          "learningLanguage": "ar",
+          "fromLanguage": "en",
+          "xp": 5328,
+          "crowns": 9999
+        },
+        {
+          "id": "DUOLINGO_RU_EN",
+          "title": "Russian",
+          "learningLanguage": "ru",
+          "fromLanguage": "en",
+          "xp": 40,
+          "crowns": 9999
+        },
+        {
+          "id": "DUOLINGO_KO_EN",
+          "title": "Korean",
+          "learningLanguage": "ko",
+          "fromLanguage": "en",
+          "xp": 28,
+          "crowns": 9999
+        },
+        {
+          "id": "DUOLINGO_PT_ES",
+          "title": "Portuguese",
+          "learningLanguage": "pt",
+          "fromLanguage": "es",
+          "xp": 20,
+          "crowns": 9999
+        },
+        {
+          "id": "DUOLINGO_EL_EN",
+          "title": "Greek",
+          "learningLanguage": "el",
+          "fromLanguage": "en",
+          "xp": 10,
+          "crowns": 9999
+        },
+        {
+          "id": "DUOLINGO_SW_EN",
+          "title": "Swahili",
+          "learningLanguage": "sw",
+          "fromLanguage": "en",
+          "xp": 10,
+          "crowns": 9999
+        },
+        {
+          "id": "DUOLINGO_CY_EN",
+          "title": "Welsh",
+          "learningLanguage": "cy",
+          "fromLanguage": "en",
+          "xp": 10,
+          "crowns": 9999
+        }
+      ],
+      "currentCourseId": "DUOLINGO_FR_EN",
+      "learningLanguage": "fr"
+    },
+    "firstTrackedAt": "2026-10-27T12:28:24.284Z",
+    "lastUpdatedAt": "2026-10-31T11:08:26.898Z",
+    "isReal": true,
+    "isDemo": false,
+    "snapshots": [
+      {
+        "timestamp": 1793105914562,
+        "dateStr": "2026-10-27",
+        "totalXp": 394528,
+        "streak": 3986,
+        "courses": [
+          {
+            "title": "French",
+            "xp": 86873,
+            "crowns": 9999,
+            "learningLanguage": "fr"
+          },
+          {
+            "title": "Japanese",
+            "xp": 7781,
+            "crowns": 9999,
+            "learningLanguage": "ja"
+          },
+          {
+            "title": "Spanish",
+            "xp": 13022,
+            "crowns": 9999,
+            "learningLanguage": "es"
+          },
+          {
+            "title": "German",
+            "xp": 2348,
+            "crowns": 9999,
+            "learningLanguage": "de"
+          },
+          {
+            "title": "Swedish",
+            "xp": 1012,
+            "crowns": 9999,
+            "learningLanguage": "sv"
+          },
+          {
+            "title": "Portuguese",
+            "xp": 53997,
+            "crowns": 9999,
+            "learningLanguage": "pt"
+          },
+          {
+            "title": "English",
+            "xp": 433,
+            "crowns": 9999,
+            "learningLanguage": "en"
+          },
+          {
+            "title": "English",
+            "xp": 56,
+            "crowns": 9999,
+            "learningLanguage": "en"
+          },
+          {
+            "title": "French",
+            "xp": 25,
+            "crowns": 9999,
+            "learningLanguage": "fr"
+          },
+          {
+            "title": "English",
+            "xp": 382,
+            "crowns": 9999,
+            "learningLanguage": "en"
+          },
+          {
+            "title": "Italian",
+            "xp": 81,
+            "crowns": 9999,
+            "learningLanguage": "it"
+          },
+          {
+            "title": "Arabic",
+            "xp": 5328,
+            "crowns": 9999,
+            "learningLanguage": "ar"
+          },
+          {
+            "title": "Russian",
+            "xp": 40,
+            "crowns": 9999,
+            "learningLanguage": "ru"
+          },
+          {
+            "title": "Korean",
+            "xp": 28,
+            "crowns": 9999,
+            "learningLanguage": "ko"
+          },
+          {
+            "title": "Portuguese",
+            "xp": 20,
+            "crowns": 9999,
+            "learningLanguage": "pt"
+          },
+          {
+            "title": "Greek",
+            "xp": 10,
+            "crowns": 9999,
+            "learningLanguage": "el"
+          },
+          {
+            "title": "Swahili",
+            "xp": 10,
+            "crowns": 9999,
+            "learningLanguage": "sw"
+          },
+          {
+            "title": "Welsh",
+            "xp": 10,
+            "crowns": 9999,
+            "learningLanguage": "cy"
+          }
+        ]
+      },
+      {
+        "timestamp": 1793444906898,
+        "dateStr": "2026-10-31",
+        "totalXp": 396770,
+        "streak": 3990,
+        "courses": [
+          {
+            "title": "French",
+            "xp": 88055,
+            "crowns": 9999,
+            "learningLanguage": "fr"
+          },
+          {
+            "title": "Japanese",
+            "xp": 8323,
+            "crowns": 9999,
+            "learningLanguage": "ja"
+          },
+          {
+            "title": "Spanish",
+            "xp": 13022,
+            "crowns": 9999,
+            "learningLanguage": "es"
+          },
+          {
+            "title": "German",
+            "xp": 2348,
+            "crowns": 9999,
+            "learningLanguage": "de"
+          },
+          {
+            "title": "Swedish",
+            "xp": 1012,
+            "crowns": 9999,
+            "learningLanguage": "sv"
+          },
+          {
+            "title": "Portuguese",
+            "xp": 53997,
+            "crowns": 9999,
+            "learningLanguage": "pt"
+          },
+          {
+            "title": "English",
+            "xp": 433,
+            "crowns": 9999,
+            "learningLanguage": "en"
+          },
+          {
+            "title": "English",
+            "xp": 56,
+            "crowns": 9999,
+            "learningLanguage": "en"
+          },
+          {
+            "title": "French",
+            "xp": 25,
+            "crowns": 9999,
+            "learningLanguage": "fr"
+          },
+          {
+            "title": "English",
+            "xp": 382,
+            "crowns": 9999,
+            "learningLanguage": "en"
+          },
+          {
+            "title": "Italian",
+            "xp": 81,
+            "crowns": 9999,
+            "learningLanguage": "it"
+          },
+          {
+            "title": "Arabic",
+            "xp": 5328,
+            "crowns": 9999,
+            "learningLanguage": "ar"
+          },
+          {
+            "title": "Russian",
+            "xp": 40,
+            "crowns": 9999,
+            "learningLanguage": "ru"
+          },
+          {
+            "title": "Korean",
+            "xp": 28,
+            "crowns": 9999,
+            "learningLanguage": "ko"
+          },
+          {
+            "title": "Portuguese",
+            "xp": 20,
+            "crowns": 9999,
+            "learningLanguage": "pt"
+          },
+          {
+            "title": "Greek",
+            "xp": 10,
+            "crowns": 9999,
+            "learningLanguage": "el"
+          },
+          {
+            "title": "Swahili",
+            "xp": 10,
+            "crowns": 9999,
+            "learningLanguage": "sw"
+          },
+          {
+            "title": "Welsh",
+            "xp": 10,
+            "crowns": 9999,
+            "learningLanguage": "cy"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": {
+      "id": 726834,
+      "username": "my_duo_user",
+      "name": "my_duo_user",
+      "bio": "DuoStats安全学習トラッカーで日々の記録を管理中",
+      "streak": 1,
+      "totalXp": 100,
+      "creationDate": 1793105272,
+      "courses": [
+        {
+          "id": "en",
+          "title": "EN",
+          "learningLanguage": "en",
+          "fromLanguage": "ja",
+          "xp": 100,
+          "crowns": 1
+        }
+      ],
+      "learningLanguage": "en"
+    },
+    "firstTrackedAt": "2026-10-27T12:47:52.044Z",
+    "lastUpdatedAt": "2026-10-27T12:47:52.044Z",
+    "isReal": true,
+    "isDemo": false,
+    "snapshots": [
+      {
+        "timestamp": 1793105272044,
+        "dateStr": "2026-10-27",
+        "totalXp": 100,
+        "streak": 1,
+        "courses": [
+          {
+            "title": "EN",
+            "xp": 100,
+            "crowns": 1,
+            "learningLanguage": "en"
+          }
+        ]
+      }
+    ]
+  }
+]
